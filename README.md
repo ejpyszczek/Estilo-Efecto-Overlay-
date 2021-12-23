@@ -2,7 +2,7 @@
 
 Comenzando 🚀
 
-Link Previsualizcion: 
+Link Previsualizcion: https://ejpyszczek.github.io/Estilo-Efecto-Overlay-/
 
 Herramientas requisitos 📋 HTML - CSS - Visual Studio Code
 
