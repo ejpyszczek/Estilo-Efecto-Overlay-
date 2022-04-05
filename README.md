@@ -6,7 +6,7 @@ Link Previsualizcion: https://ejpyszczek.github.io/Estilo-Efecto-Overlay-/
 
 Herramientas requisitos 📋 HTML - CSS - Visual Studio Code
 
-Versionado 📌 Primera Version A
+Versionado 📌 Segunda Version A
 
 Autores ✒️ Enrique J. Pyszczek
 
